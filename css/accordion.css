@@ -3,8 +3,8 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  margin-top: 10px;
-  margin-bottom: 20px;
+  /* margin-top: 10px;
+  margin-bottom: 20px; */
 }
 .accordionjs .acc_section {
   border: 1px solid #ccc;
@@ -15,9 +15,9 @@
 }
 .accordionjs .acc_section .acc_head {
   position: relative;
-  background: #fff;
+  /* background: #fff;
   padding: 10px;
-  display: block;
+  display: block; */
   cursor: pointer;
 }
 .accordionjs .acc_section .acc_head h3 {
